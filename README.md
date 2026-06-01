@@ -86,7 +86,7 @@ Streamlit will open the app in your browser. If it does not open automatically, 
 Add a screenshot of the app here:
 
 ```text
-[Screenshot placeholder]
+<img width="780" height="636" alt="image" src="https://github.com/user-attachments/assets/f64f2b8a-bfba-4b61-b5ef-04e38b30cb1d" />
 ```
 
 ## Notes
